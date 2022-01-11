@@ -1,2 +1,3 @@
-# documents
-文档先行
+# 从零做个 ThingJs 文档
+
+

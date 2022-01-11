@@ -1,0 +1,13 @@
+{
+    "inputFiles": ["../thing/src/index.ts"],
+    "listInvalidSymbolLinks": false,
+    "name": "从零做个ThingJs文档",
+    "theme": "pages-plugin",
+    "out": "docs",
+    "includes": "./src/includes",
+    "mode": "modules",
+    "readme": "./README.md",
+    "pages": "./pagesconfig.json",
+    "hideGenerator": true,
+    "ignoreCompilerErrors": true
+}

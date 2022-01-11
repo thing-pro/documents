@@ -1,0 +1,17 @@
+{
+    "groups": [
+        {
+            "title": "标题1",
+            "pages": [
+                {
+                    "title": "hello",
+                    "source": "./src/hello.md"
+                }
+            ]
+        }
+    ],
+    "listInvalidPageLinks": false,
+    "reflectionNavigationTitle": "接口手册",
+    "replaceGlobalsPage": true,
+    "enableSearch": false
+}
